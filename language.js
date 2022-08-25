@@ -1,0 +1,15 @@
+module.exports = {
+  Hindi: "hi",
+  English: "en",
+  Gujarati: "gu",
+  Marathi: "mr",
+  Tamil: "ta",
+  Telugu: "te",
+  Malayalam: "ml",
+  Punjabi: "pa",
+  Urdu: "ur",
+  Kannada: "kn",
+  Odia: "or",
+  Assamese: "as",
+  Bangla: "bn",
+};
